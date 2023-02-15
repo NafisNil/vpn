@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"54.236.26.164","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"virginia","country":"United States","image":"singapore","ip":"52.90.14.225","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"singapore","country":"Singapore","image":"singapore","ip":"18.139.161.134","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"virginia","country":"United States","image":"unitedstates","ip":"52.90.14.225","active":"true","signal":"b"},
   ]
 }
