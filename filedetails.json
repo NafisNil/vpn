@@ -714,6 +714,7 @@ bf1be374d085778886270f85490c40a3
 {"id":6,"file":"
 
 setenv FORWARD_COMPATIBLE 1
+client
 server-poll-timeout 4
 nobind
 remote 51.79.173.61 1194 udp
