@@ -24,7 +24,7 @@
     {"id":4, "file":4, "city":"Singapore ","country":"Singapore","image":"singapore","ip":"51.79.173.61","active":"true","signal":"a"},
     
     {"id":5, "file":5, "city":"singapore","country":"Singapore","image":"singapore","ip":"18.139.161.134","active":"true","signal":"b"},
-    {"id":6, "file":6, "city":"virginia","country":"United States","image":"unitedstates","ip":"52.90.14.225","active":"true","signal":"b"},
+    {"id":6, "file":6, "city":"United States","country":"United States","image":"unitedstates","ip":"52.90.14.225","active":"true","signal":"b"},
 
   ]
 }
