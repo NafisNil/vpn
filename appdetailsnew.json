@@ -21,7 +21,8 @@
      {"id":1, "file":1, "city":"Canada","country":"Canada","image":"canada","ip":"51.79.64.187","active":"true","signal":"a"},
     {"id":2, "file":2, "city":"England","country":"United Kingdom","image":"unitedkingdom","ip":"51.89.167.117","active":"true","signal":"a"},
       {"id":3, "file":3, "city":"Germany","country":"Germany","image":"germany","ip":"51.75.67.79","active":"true","signal":"a"},
-    {"id":4, "file":4, "city":"Singapore ","country":"Singapore","image":"singapore","ip":"51.79.173.61,"active":"true","signal":"a"},
+    {"id":4, "file":4, "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.79.173.61","active":"true","signal":"a"},
+   
 
   ]
 }
