@@ -24,5 +24,6 @@
     {"id":4, "file":4, "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.79.173.61","active":"true","signal":"a"},
    {"id":5, "file":5, "city":"United States","country":"United States","image":"unitedstates","ip":"51.79.173.61","active":"true","signal":"a"},
 {"id":6, "file":6, "city":"Netherlands","country":"Netherlands","image":"netherlands","ip":"159.223.209.216","active":"true","signal":"a"},
+    {"id":7, "file":7, "city":"Germany Frankfurt","country":"Germany","image":"germany","ip":"64.226.86.180","active":"true","signal":"a"},
   ]
 }
