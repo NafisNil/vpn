@@ -16,11 +16,11 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-     {"id":0, "file":0, "city":"New Jersey","country":"AutoConnect","image":"unitedstates","ip":"154.12.227.0","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"New Jersey","country":"United States","image":"unitedstates","ip":"154.12.227.0","active":"true","signal":"a"},
+     {"id":0, "file":0, "city":"New Jersey","country":"AutoConnect","image":"unitedstates","ip":"142.93.121.116","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"New Jersey","country":"United States","image":"unitedstates","ip":"142.93.121.116","active":"true","signal":"a"},
   
-    {"id":2, "file":2, "city":"England","country":"United Kingdom","image":"unitedkingdom","ip":"51.89.167.117","active":"true","signal":"a"},
-      {"id":3, "file":3, "city":"Germany","country":"Germany","image":"germany","ip":"51.75.67.79","active":"true","signal":"a"},
-    {"id":4, "file":4, "city":"Singapore","country":"Singapore","image":"singapore","ip":"51.79.173.61","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"159.223.209.216","active":"true","signal":"a"},
+      {"id":3, "file":3, "city":"Singapore","country":"Singapore","image":"singapore","ip":"167.172.68.116","active":"true","signal":"a"},
+
   ]
 }
